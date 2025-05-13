@@ -1,3 +1,4 @@
 return {
-    ["8462999502"] = "RABBIT1230-1"
+    ["8462999502"] = "minhaKey123", -- UserId como string
+    ["987654321"] = "outraKey456"
 }
